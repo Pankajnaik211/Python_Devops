@@ -1,8 +1,8 @@
-Day 01 – Introduction to Python for DevOps
-Task
+**Day 01 – Introduction to Python for DevOps
+Task**
 Today’s goal is to write your first Python script.
 
-You will create a Python script that:
+**You will create a Python script that:**
 
 Takes threshold values (CPU, disk, memory) from user input
 Also fetches system metrics using a Python library (example: psutil)
@@ -14,7 +14,7 @@ Expected Output
 One Python script (example: system_health.py)
 Output should be visible in terminal
 Guidelines
-Use:
+**Use:**
 input() for user input
 if / else for decision making
 for loops where required
@@ -28,18 +28,18 @@ Python basics (inputs, conditions, loops, functions)
 Why This Matters for DevOps
 DevOps engineers frequently write scripts to:
 
-Check server health
+**Check server health**
 Validate system conditions
 Generate reports for monitoring and troubleshooting
 This task builds the foundation for automation, monitoring, and reliability.
 
-Submission
+**Submission**
 Fork the repository
 Add your script inside the day-01 folder
 Ensure the script runs successfully
 Commit and push your changes to your fork
 Learn in Public
-Share your progress on LinkedIn:
+**Share your progress on LinkedIn:**
 
 Post a small code snippet or a story on how you wrote your first Python Script
 Share the output from the terminal
