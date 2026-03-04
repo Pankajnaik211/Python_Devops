@@ -65,7 +65,7 @@ clouds .append("IBM")
 clouds .append("azure")
 
 # print(cloud)
-
+print(clouds.append.__doc__)
 
 for cloud in clouds:
     if cloud == "AWS" :
